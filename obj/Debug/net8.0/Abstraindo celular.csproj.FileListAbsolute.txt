@@ -1,0 +1,14 @@
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\bin\Debug\net8.0\Abstraindo celular.exe
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\bin\Debug\net8.0\Abstraindo celular.deps.json
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\bin\Debug\net8.0\Abstraindo celular.runtimeconfig.json
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\bin\Debug\net8.0\Abstraindo celular.dll
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\bin\Debug\net8.0\Abstraindo celular.pdb
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\obj\Debug\net8.0\Abstraindo celular.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\obj\Debug\net8.0\Abstraindo celular.AssemblyInfoInputs.cache
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\obj\Debug\net8.0\Abstraindo celular.AssemblyInfo.cs
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\obj\Debug\net8.0\Abstraindo celular.csproj.CoreCompileInputs.cache
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\obj\Debug\net8.0\Abstraindo celular.dll
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\obj\Debug\net8.0\refint\Abstraindo celular.dll
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\obj\Debug\net8.0\Abstraindo celular.pdb
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\obj\Debug\net8.0\Abstraindo celular.genruntimeconfig.cache
+D:\Users\Lucas\Documents\Faculdades\Analise e Desenvolvimento de Sistemas\.Net-DIO-AVANADE\Abstraindo celular\obj\Debug\net8.0\ref\Abstraindo celular.dll
